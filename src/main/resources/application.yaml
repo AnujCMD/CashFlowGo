@@ -4,7 +4,7 @@ spring:
       uri: mongodb+srv://jedirebels:anujqwerty32@cluster0.qr9uwh7.mongodb.net/CashFlowGo
 
 app:
-  currencyConversionUrl: https://api.fxratesapi.com/latest
+  currencyConversionUrl: https://mocki.io/v1/3a61dc8d-42cf-459f-9cf8-ce0512500642
 
 springdoc:
   swagger-ui:

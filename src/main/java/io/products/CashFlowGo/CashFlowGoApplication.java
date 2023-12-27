@@ -23,6 +23,11 @@ public class CashFlowGoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CashFlowGoApplication.class, args);
 	}
+
+	/**
+	 * Create a bean of Rest Template
+	 * @return RestTemplate
+	 */
 	@Bean
 	public RestTemplate getRestTemplate(){
 		return new RestTemplate();
