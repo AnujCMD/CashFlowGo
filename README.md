@@ -7,4 +7,4 @@
 <a href="https://github.com/AnujCMD/CashFlowGo/issues"><img src="https://img.shields.io/github/issues/AnujCMD/CashFlowGo" alt="Issues Badge"/></a>
 <a href="https://github.com/AnujCMD/CashFlowGo/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AnujCMD/CashFlowGo?color=2b9348"></a>
 <a href="https://github.com/AnujCMD/CashFlowGo/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AnujCMD/CashFlowGo?color=2b9348" alt="License Badge"/></a>
-<p>Repository not found, because the respository is private. :)</p>
+<p>Repository is public :)</p>
