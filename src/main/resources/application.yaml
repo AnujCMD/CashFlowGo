@@ -1,0 +1,14 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://jedirebels:anujqwerty32@cluster0.qr9uwh7.mongodb.net/CashFlowGo
+
+app:
+  currencyConversionUrl: https://api.fxratesapi.com/latest
+
+springdoc:
+  swagger-ui:
+    enabled: true
+    path: /docs
+  api-docs:
+    path: /api-doc
